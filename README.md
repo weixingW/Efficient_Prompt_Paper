@@ -9,11 +9,20 @@
  <a id="item-one"></a>
  ### Prompt Compression
  > Compress prompt :wink:
+
+| Name | Description |
+| ------ | ----------- |
+|[Prompt Compression and Contrastive Conditioning for Controllability and Toxicity Reduction in Language Models](https://arxiv.org/pdf/2210.03162.pdf)| |
  
  <a id="item-two"></a>
  ### Few-shot pruning
  > Select and prune useless prompts :wink:
- 
+
+| Name | Description |
+------ | ----------- |
+
  <a id="item-three"></a>
  ### Second Item
- Second item content goes here
+
+| Name | Description |
+| ------ | ----------- |
