@@ -25,7 +25,8 @@
  <a id="item-three"></a>
  ### Add adapter
 > Adding small overheads that are useful for inference:wink:
+
 | Name | Description |Task|
 | ------ | ----------- |---------|
-|[Learning to Compress Prompts with Gist Tokens](https://arxiv.org/pdf/2304.08467.pdf)|add <Gist> tokens while training to replace prompts in the inference|Alpaca dataset: multiple tasks|
+|[Learning to Compress Prompts with Gist Tokens](https://arxiv.org/pdf/2304.08467.pdf)|add "Gist" tokens while training to replace prompts in the inference|Alpaca dataset: multiple tasks|
 |[LEARNING BY DISTILLING CONTEXT](https://arxiv.org/pdf/2209.15189.pdf)|KD from complex prompts to short promt|Natural-Instructions-V2,text-to-SQL|
